@@ -1024,7 +1024,7 @@ msgstr "Oct."
 
 msgctxt "abbrev. month"
 msgid "Nov."
-msgstr "Noie."
+msgstr "Nov."
 
 msgctxt "abbrev. month"
 msgid "Dec."
